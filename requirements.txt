@@ -1,0 +1,15 @@
+Cython == 0.29.30
+torch >= 1.11.0
+tqdm
+scipy
+setuptools
+tensorboardX
+psutil
+pyyaml
+mpi4py
+opt_einsum
+panda3d
+cmake
+tensorboard
+chardet
+trimesh
