@@ -1,4 +1,4 @@
-# MuscleVAE
+# MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters
 An implemention of paper [MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters](https://pku-mocca.github.io/MuscleVAE-page/).
 
 [Yusen Feng](https://wangchek.github.io/),  [Xiyan Xu](https://xiyan-xu.github.io/), [Libin Liu](http://libliu.info/)
