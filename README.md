@@ -71,13 +71,19 @@ Till now, we only offer the playing codes. The training codes will come soon.
 If you find our work useful in your research, please consider citing:
 
 ```
-@misc{feng2023musclevae,
-      title={MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters}, 
-      author={Yusen Feng and Xiyan Xu and Libin Liu},
-      year={2023},
-      eprint={2312.07340},
-      archivePrefix={arXiv},
-      primaryClass={cs.GR}
+@inproceedings{feng2023musclevae,
+    author = {Feng, Yusen and Xu, Xiyan and Liu, Libin},
+    title = {MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters},
+    year = {2023},
+    isbn = {9798400703157},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3610548.3618137},
+    doi = {10.1145/3610548.3618137},
+    booktitle = {SIGGRAPH Asia 2023 Conference Papers},
+    articleno = {3},
+    numpages = {11},
+    series = {SA '23}
 }
 ```
 
