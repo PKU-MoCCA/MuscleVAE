@@ -10,7 +10,7 @@ Project Page: https://pku-mocca.github.io/MuscleVAE-page/
 Install the packages listed in `requirements.txt`. This repo can be run on both `Linux` and `Windows`. But the render part is only supported on `Windows`. As of now, we only offer a basic OpenGL-based test render that can roughly display muscles and geometries, and it only supports the Windows operating system.
 
 ```
-conda env create -n musclevae python=3.8
+conda create -n musclevae python=3.8
 conda activate musclevae
 pip install cython==0.29.30 tqdm scipy setuptools tensorboard tensorboardx psutil pyyaml cmake opt_einsum panda3d chardet trimesh
 conda install mpi4py  
